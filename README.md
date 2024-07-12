@@ -4,7 +4,7 @@ Hi 👋 My name is MYKHAILO BIELICHENKO
 Web developer and product owner
 -------------------------------
 
-I've been learning to make web apps for over 15 years, after switching careers. Starting my journey in SEO, I've developed a strong passion for product ownership and backend development. I thrive on crafting user-centric solutions that drive business growth and improve user engagement. I'm particularly fascinated by the challenge of turning complex problems into simple, scalable solutions using the latest web technologies.
+I've been learning to make web apps for over 15 years, after switching careers. Starting my journey in SEO, I've developed a strong passion for product ownership and full-stack development. I thrive on crafting user-centric solutions that drive business growth and improve user engagement. I'm particularly fascinated by the challenge of turning complex problems into simple, scalable solutions using the latest web technologies.
 
 * 🌍  I'm based in Norway
 * ✉️  You can contact me at [maikl.seo@gmail.com](mailto:maikl.seo@gmail.com)
