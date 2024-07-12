@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 My name is MYKHAILO BIELICHENKO
+=====================================
 
-<!--
-**mykhailo0bielichenko/mykhailo0bielichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer and product owner
+-------------------------------
 
-Here are some ideas to get you started:
+I've been learning to make web apps for over 15 years, after switching careers. Starting my journey in SEO, I've developed a strong passion for product ownership and backend development. I thrive on crafting user-centric solutions that drive business growth and improve user engagement. I'm particularly fascinated by the challenge of turning complex problems into simple, scalable solutions using the latest web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Norway
+* ✉️  You can contact me at [maikl.seo@gmail.com](mailto:maikl.seo@gmail.com)
+* 🧠  I'm learning Advanced techniques in cloud architecture and AI to enhance my backend development skills. Exploring deeper aspects of Agile methodologies to refine my product management skills.
+* 🤝  I'm open to collaborating on Innovative projects focused on web development and product design, especially those that leverage new technologies to solve real-world problems. Initiatives that aim to improve accessibility and usability in software applications.
+* ⚡  Passionate about environmental sustainability and community volunteer work. Always eager to connect with fellow tech enthusiasts and thinkers. Let’s innovate together!
