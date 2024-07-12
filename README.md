@@ -11,3 +11,6 @@ I've been learning to make web apps for over 15 years, after switching careers. 
 * 🧠  I'm learning Advanced techniques in cloud architecture and AI to enhance my backend development skills. Exploring deeper aspects of Agile methodologies to refine my product management skills.
 * 🤝  I'm open to collaborating on Innovative projects focused on web development and product design, especially those that leverage new technologies to solve real-world problems. Initiatives that aim to improve accessibility and usability in software applications.
 * ⚡  Passionate about environmental sustainability and community volunteer work. Always eager to connect with fellow tech enthusiasts and thinkers. Let’s innovate together!
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mykhailo0bielichenko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
