@@ -12,9 +12,6 @@ I've been learning to make web apps for over 15 years, after switching careers. 
 * 🤝  I'm open to collaborating on Innovative projects focused on web development and product design, especially those that leverage new technologies to solve real-world problems. Initiatives that aim to improve accessibility and usability in software applications.
 * ⚡  Passionate about environmental sustainability and community volunteer work. Always eager to connect with fellow tech enthusiasts and thinkers. Let’s innovate together!
 
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
+
